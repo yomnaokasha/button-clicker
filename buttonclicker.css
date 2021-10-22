@@ -1,0 +1,84 @@
+.headbar {
+  background-color: rgb(204, 204, 204);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  width: 570px;
+  height: 45px;
+  margin-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.title {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.search {
+  border-color: black;
+  border-style: solid;
+  padding-left: 40px;
+}
+.log {
+  background-color: rgb(43, 120, 228);
+  color: azure;
+  border-color: black;
+  border-style: solid;
+  box-shadow: 3px 3px black;
+  width: 60px;
+  height: 25px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.ninja {
+  display: flex;
+  justify-content: space-around;
+  width: 400px;
+  height: 150px;
+  border-color: black;
+  border-style: solid;
+}
+
+.ninja1 {
+  margin-bottom: 20px;
+}
+
+.rightside {
+  line-height: 12px;
+  margin-left: 2px;
+  margin-right: 10px;
+}
+.leftside {
+  margin-top: 40px;
+}
+.likes {
+  color: black;
+  background-color: rgb(249, 218, 120);
+  border-style: solid;
+  border-color: black;
+  box-shadow: 3px 3px black;
+}
+.define {
+  width: 170px;
+  height: 110px;
+  border-color: black;
+  border-style: solid;
+  margin-left: 20px;
+}
+.add {
+  background-color: rgb(147, 196, 125);
+  color: black;
+  box-shadow: 3px 3px black;
+  margin-left: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.details {
+  margin-left: 10px;
+}
